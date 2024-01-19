@@ -1,4 +1,4 @@
-This repository provides the simulation and Vitis code of Error detection capable ECSM window method operation published in ["Efficient Error Detection Schemes for ECSM Window Method Benchmarked on FPGAs"] (https://ieeexplore.ieee.org/iel7/92/4359553/10364737.pdf).
+This repository provides the simulation and Vitis code of Error detection capable ECSM window method operation published in "Efficient Error Detection Schemes for ECSM Window Method Benchmarked on FPGAs"(https://ieeexplore.ieee.org/iel7/92/4359553/10364737.pdf).
 
 If you use this work in your research/study, please cite our work:
 ```
